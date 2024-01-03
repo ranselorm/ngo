@@ -3,9 +3,9 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <section className="pt-[150px] border-2 h-screen">
+    <section className="pt-[150px]">
       <div className="w-[220px] h-[220px] bg-secondary bg-opacity-15 -ml-1 rounded-tr-lg rounded-br-lg" />
-      <div className="flex flex-col gap-8 md:flex-row py-6 px-6 md:px-10 ml-2 md:ml-[50px] rounded-lg bg-white shadow-lg -mt-[170px] md:pl-[40px]">
+      <div className="flex flex-col gap-8 md:flex-row py-6 px-4 md:px-10 ml-2 md:ml-[50px] rounded-lg bg-white shadow-lg -mt-[170px] md:pl-[40px]">
         <div className="w-full md:w-9/12 flex flex-col gap-y-6 items-start">
           <h2 className=" text-[25px] md:text-[30px] lg:text-[40px] md:leading-[45px]">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda,
