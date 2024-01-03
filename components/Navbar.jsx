@@ -36,7 +36,7 @@ const Navbar = () => {
 
   return (
     <nav
-      className={`fixed w-full z-10 transition-colors duration-300 py-3 bg-white shadow-lg bg-transparent text-black text-[19px]
+      className={`fixed w-full z-10 transition-colors duration-300 py-3 bg-white shadow-md bg-transparent text-black text-[19px]
       }`}
     >
       <div className="mx-auto px-10">
